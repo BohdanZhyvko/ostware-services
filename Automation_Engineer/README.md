@@ -3,6 +3,6 @@
 got a task 09-02-2016;
 completed and sent 19-02-2016;
 
-Завдання і розвязок описані в наступних файлах:
- - TestTask_AE 2016.doc
- - answer.doc
+The challenge and the solution described in the following files in Ukrainian:
+ - TestTask_AE 2016.docx
+ - answer.rtf
